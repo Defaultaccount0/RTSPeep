@@ -29,4 +29,4 @@ optional arguments:
 - all testing done on Ubuntu 20.04
 
 ## Related terms
-RTSP, security cameras, surveillance cameras, ONVIF
+RTSP, security cameras, surveillance cameras, ONVIF, pentest, red team, enumeration, reconnaisance
