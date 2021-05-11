@@ -162,7 +162,7 @@ print("writing to ./unauth_streams.txt")
 try:
         f = open('./unauth_streams.txt','w+')
         for streams in unauth_streams:
-                f.write("%s\n" % streams)
+                f.write(str(streams))
         f.close()
 except Exception as e:
         print("caught exception when writing output file: " + str(e))
